@@ -1,2 +1,1 @@
-This is a test of Git-hub
-
+This is a test of Git-
